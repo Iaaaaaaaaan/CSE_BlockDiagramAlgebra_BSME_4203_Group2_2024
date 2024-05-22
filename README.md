@@ -1,4 +1,5 @@
 Number 1
+
 ![image](https://github.com/Iaaaaaaaaan/CSE_BlockDiagramAlgebra_BSME_4203_Group2_2024/assets/161392194/8e1ad0af-6b2e-4eef-b73f-052177c9a6fb)
 
 ![image](https://github.com/Iaaaaaaaaan/CSE_BlockDiagramAlgebra_BSME_4203_Group2_2024/assets/161392194/80549e74-f660-40c3-855b-645719cf5b20)
@@ -9,6 +10,8 @@ Number 1
 
 ![image](https://github.com/Iaaaaaaaaan/CSE_BlockDiagramAlgebra_BSME_4203_Group2_2024/assets/161392194/34f3ae3d-676e-415b-820a-c797c8ddc57a)
 ______________________________________________________________________________________________________________________________________________
+Number 2
+
 ![image](https://github.com/Iaaaaaaaaan/CSE_BlockDiagramAlgebra_BSME_4203_Group2_2024/assets/161392194/9a714845-c45c-4514-b0d2-368125cd489e)
 ![img20240511_09373558](https://github.com/Iaaaaaaaaan/CSE_BlockDiagramAlgebra_BSME_4203_Group2_2024/assets/161392194/9d87a646-20bb-40fa-ac35-6f7785e60621)
 ![img20240511_09373558_0001](https://github.com/Iaaaaaaaaan/CSE_BlockDiagramAlgebra_BSME_4203_Group2_2024/assets/161392194/3f9d4d0e-f999-426d-87a9-d524075d728c)
