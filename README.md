@@ -1,4 +1,4 @@
-
+Number 1
 ![image](https://github.com/Iaaaaaaaaan/CSE_BlockDiagramAlgebra_BSME_4203_Group2_2024/assets/161392194/8e1ad0af-6b2e-4eef-b73f-052177c9a6fb)
 
 ![image](https://github.com/Iaaaaaaaaan/CSE_BlockDiagramAlgebra_BSME_4203_Group2_2024/assets/161392194/80549e74-f660-40c3-855b-645719cf5b20)
